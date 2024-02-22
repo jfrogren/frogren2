@@ -1,6 +1,6 @@
 MetaDataFormat = "yaml"
-baseurl = "https://frogren.se/"
-title = "kieranhealy.org"
+baseurl = "https://www.frogren.se/"
+title = "frogren.se"
 CanonifyUrls = true
 rssLimit = 20
 
